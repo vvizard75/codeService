@@ -3,6 +3,7 @@
 
 
 ## Установка
+    cd $GOPATH/src
     git clone https://github.com/vvizard75/codeService
     cd codeService
     go build
